@@ -1,3 +1,5 @@
-from helper import greeting 
+__author__ = 'myc2dc'
 
-greeting("hello")
+from helper import greeting
+
+greeting("hi")
