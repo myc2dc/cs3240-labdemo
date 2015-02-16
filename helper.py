@@ -1,2 +1,4 @@
-def greeting(msg): 
+__author__ = 'myc2dc'
+
+def greeting(msg):
 	print(msg) 
